@@ -1,2 +1,3 @@
-# AyurDaily-Ecommerce
-Angular-based e-commerce site for beauty and health care products
+# trade_project-apawar7
+trade_project-apawar7 created by GitHub Classroom
+created and updated project 2 milestone

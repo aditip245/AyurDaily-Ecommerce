@@ -1,0 +1,38 @@
+<%- include('../partials/header.ejs') %>
+<div class="content">
+    <div class="center-container">
+        <form action = '/connections' method = 'POST' class="mt-20">
+          <label for="topic">Category</label>
+          <input type="text" id="topic" name="topic" placeholder="Enter Category.." required>
+
+          <label for="name">Product Title</label>
+          <input type="text" id="name" name="name" placeholder="Enter Product Name.." required>
+
+          <label for="hostname">Host</label>
+          <input type="text" id="hostname" name="hostname" placeholder="Enter host.." required>
+
+          <label for="location">Location</label>
+          <input type="text" id="location" name="location" placeholder="Enter location.." required>
+
+          <label for="prodOneLine">Product OneLiner</label>
+          <input type="text" id="prodOneLine" name="prodOneLine" placeholder="Enter Product One Liner.." required>
+
+          <label for="Significance">Significance</label>
+          <input type="text" id="Significance" name="Significance" placeholder="Enter Product Significance.." required>
+
+          <label for="details">Detail</label>
+          <textarea id="details" name="details" placeholder="Enter description.." required minlength="10"></textarea>
+
+          <label for="Cost">Cost</label>
+          <input type="text" id="cost" name="cost" placeholder="Enter Cost.. " required>
+      
+
+          <label for="img_url">Image URL</label>
+          <input type="url" id="img_url" name="img_url" placeholder="Enter image url.." required>
+      
+        
+            <button class="button submit-btn mb-100">Create Product</button>
+        </form>
+    </div>
+</div>
+<%- include('../partials/footer.ejs') %>

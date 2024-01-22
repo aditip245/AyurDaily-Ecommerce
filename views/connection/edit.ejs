@@ -1,0 +1,38 @@
+<%- include('../partials/header.ejs') %>
+<div class="content">
+    <div class="center-container">
+        <form action = '/connections/<%= connection.id%>?_method=PUT' method = 'POST' class="mt-20">
+          <label for="topic">Category</label>
+          <input type="text" id="topic" name="topic" placeholder="Enter Category" value="<%=connection.topic %>">
+
+          <label for="name">Product Title</label>
+          <input type="text" id="name" name="name" placeholder="Enter Product Name" value="<%=connection.name%>">
+
+          <label for="hostname">Host</label>
+          <input type="text" id="hostname" name="hostname" placeholder="Enter host.." value="<%= connection.hostname %>">
+
+          <label for="location">Location</label>
+            <input type="text" id="location" name="location" placeholder="Enter location.." value="<%= connection.location %>">
+
+          <label for="prodOneLine">Product OneLiner</label>
+          <input type="text" id="prodOneLine" name="prodOneLine" placeholder="Enter Product One Liner.." value="<%=connection.prodOneLiner%>">
+
+          <label for="Significance">Significance</label>
+          <input type="text" id="Significance" name="Significance" placeholder="Enter Product Significance.." value="<%=connection.Significance%>">
+
+          <label for="details">Detail</label>
+          <textarea id="details" name="details" placeholder="Enter description.."><%=connection.details%></textarea>
+
+          <label for="Cost">Cost</label>
+          <input type="text" id="cost" name="cost" placeholder="Enter Cost" value="<%=connection.cost%>">
+      
+
+          <label for="img_url">Image URL</label>
+          <input type="url" id="img_url" name="img_url" placeholder="Enter image url.." value="<%=connection.topic%>">
+      
+        
+            <button class="button submit-btn mb-100">Update Product</button>
+        </form>
+    </div>
+</div>
+<%- include('../partials/footer.ejs') %>

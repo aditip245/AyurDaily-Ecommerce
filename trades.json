@@ -1,0 +1,118 @@
+[{
+  "_id": {
+    "$oid": "642ca51c03f15036200bba52"
+  },
+  "name": "AloeNeem Ayur Soap",
+  "topic": "Skin Care",
+  "prodOneLine": "Vanish germs, welcome natural skin!",
+  "hostname": "Max",
+  "location": "Woodward 2",
+  "cost": "$15",
+  "Significance": "Use regularly to get bacterial free body",
+  "details": "It is a perfect solution if you want germ free plus hydrated body. The soap is made up of Aloe Vera which helps in cleansing the body and Neem fights against germs.",
+  "image": "https://thenerdyfarmwife.com/wp-content/uploads/2018/04/aloe-vera-facial-soap-1200FB.jpg"
+},{
+  "_id": {
+    "$oid": "642ca51c03f15036200bba53"
+  },
+  "name": "Gram Face Pack",
+  "topic": "Skin Care",
+  "prodOneLine": "Do not just eat Gram seeds but use them for Glow!",
+  "hostname": "Bob",
+  "location": "Woodward 3",
+  "cost": "$23",
+  "Significance": "Best for dry skins and instant glow",
+  "details": "Gram Face Pack consists of proceeded gram seeds, rose water, oil,coffee extract. Apply the pack on face and keep it for 10 mins. Then gently wipe your face with damp cloth. Use twice a week.",
+  "image": "https://www.thepinkvelvetblog.com/wp-content/uploads/2019/01/Besan-Gram-Flour-Haldi-Turmeric-and-Dahi-Curd-Face-Pack-for-a-Problem-Free-Skin.jpg"
+},{
+  "_id": {
+    "$oid": "642ca51c03f15036200bba54"
+  },
+  "name": "Ayur Serum",
+  "topic": "Skin Care",
+  "prodOneLine": "Removes black heads",
+  "hostname": "Alice",
+  "location": "Woodward 4",
+  "cost": "$55",
+  "Significance": "Get rid of acne, black heads and opens pores",
+  "details": "Apply at night so that skin heals quickly. Apply 2-3 drops only.",
+  "image": "https://img.freepik.com/premium-photo/brown-glass-bottles-with-dropper-dispenser-sand-background-bottles-cosmetic-oil-serum-without-logo-label-blank-mock-up-cosmetics-product_286227-3001.jpg?w=740"
+},{
+  "_id": {
+    "$oid": "642ca51c03f15036200bba55"
+  },
+  "name": "Onion Extract Shampoo",
+  "topic": "Hair & Care",
+  "prodOneLine": "Nourishes scalp with Onion rich proteins",
+  "hostname": "Mike",
+  "location": "Woodward 5",
+  "cost": "$25",
+  "Significance": "Avoids hairfall and improves hair growth",
+  "details": "Organic forest hundres percent vegan and black seed oil. Shampoo for women and men.",
+  "image": "https://i.etsystatic.com/12883017/r/il/d49e58/3096344633/il_1080xN.3096344633_n8kh.jpg"
+},{
+  "_id": {
+    "$oid": "642ca51c03f15036200bba56"
+  },
+  "name": "Almond oil",
+  "topic": "Hair & Care",
+  "prodOneLine": "Use almond oil when creating your personal care formulation to keep your skin healthy smooth and soft",
+  "hostname": "Sandra",
+  "location": "Woodward 6",
+  "cost": "$15",
+  "Significance": "Improves hair growth",
+  "details": "This transparent oil is ideal for soaps, candles, vapourisers, lotions and diffusers. Craft with oils and natural creativity",
+  "image": "https://www.rusticescentuals.com/Images/Products/almond-oil.jpg"
+},{
+  "_id": {
+    "$oid": "642ca51c03f15036200bba57"
+  },
+  "name": "Jasmine Hair Gel",
+  "topic": "Hair & Care",
+  "prodOneLine": "High Hold and Shine",
+  "hostname": "Andrew",
+  "location": "Woodward 7",
+  "cost": "$85",
+  "Significance": "Provides moisturising and conditioning benefits",
+  "details": "Moisture rich gel that provides defined look while taming hair leaving a high shine and finish.",
+  "image": "https://cdn.shopify.com/s/files/1/2395/7673/files/shampoo-conditioner_480x480.jpg?v=1655902483"
+},{
+  "_id": {
+    "$oid": "642ca51c03f15036200bba58"
+  },
+  "name": "Mix fruit hair spray",
+  "topic": "Hair & Care",
+  "prodOneLine": "Super hold finishing and styling hair spray",
+  "hostname": "Whitney",
+  "location": "Woodward 8",
+  "cost": "$35",
+  "Significance": "Provides moisturising and conditioning benefits",
+  "details": "Leaves hair looking natural and shining while imparting strength and volume.",
+  "image": "https://thumbs.dreamstime.com/b/aerosol-spray-can-bottle-white-background-flowers-gypsophila-fresh-citrus-fruits-hair-care-concept-metal-cosmetic-175937696.jpg"
+},{
+  "_id": {
+    "$oid": "642ca51c03f15036200bba5a"
+  },
+  "name": "pH Balanaced Wash",
+  "topic": "Hygiene and More",
+  "prodOneLine": "Unique pH balance formula of lactic acid",
+  "hostname": "Sandy",
+  "location": "Woodward 10",
+  "cost": "$61",
+  "Significance": "Vaginal hygiene with pH 3.5 and above",
+  "details": "The best defense against any vaginal discomfort.",
+  "image": "https://assets.fishersci.com/TFS-Assets/CCG/product-images/CHWB1004_2.jpg-650.jpg"
+},{
+  "_id": {
+    "$oid": "642ca51c03f15036200bba5b"
+  },
+  "name": "After Shave Gel",
+  "topic": "Hygiene and More",
+  "prodOneLine": "Cooling and refereshing effect and no burns",
+  "hostname": "Sandrapp",
+  "location": "Woodward 11",
+  "cost": "$60",
+  "Significance": "Lightly fragnanced for sensitive skin",
+  "details": "Perfectly crisp and clean way to refuel your skin after a great shave",
+  "image": "https://media.istockphoto.com/id/1224786638/photo/men-cosmetic-product-aftershave-and-white-towel-on-blue-background-with-copy-space.jpg?s=612x612&w=0&k=20&c=9o1dH4b2udH_63ZrGWCcZ4WhUPdhS-HAbDgnXtMlyts="
+}]

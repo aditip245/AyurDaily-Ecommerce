@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6080c7a4d227921bf451330e"
+  },
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "johnDoe@uncc.edu",
+  "password": "$2b$10$W.ukeKGHI2jVPCxtiSX3mOzI0lypu/T6KD.Zv7P0gU4fxBWajJiMi",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6080c83382d78a38f090205e"
+  },
+  "firstName": "Rachel",
+  "lastName": "Green",
+  "email": "rachelGreen@uncc.edu",
+  "password": "$2b$10$ZNbJAvG.g.2wN4kV9/NZweDVgJ31xIlStXPYMFPYYSxkeWf1dHaVO",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644853207766f62404efa61d"
+  },
+  "firstName": "Paddy",
+  "lastName": "Doe",
+  "email": "pd123@gmail.com",
+  "password": "$2b$10$Z4N5d9x.QqiuW.Vtrjmj..BqURyLV4aIJQ7YXMEZIrROrLlS.1ta.",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644853dc7766f62404efa636"
+  },
+  "firstName": "Sourabh",
+  "lastName": "Huma",
+  "email": "sh890@gmail.com",
+  "password": "$2b$10$5ze0ne2AWIoOF9Pd3JdEBuugcpxKAm0Xp68ZT33OALrNeaWw7jxvW",
+  "__v": 0
+}]
